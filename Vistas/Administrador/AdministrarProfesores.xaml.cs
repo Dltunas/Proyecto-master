@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace Sistema_de_Prácticas_Profesionales.Vistas.Administrador
 {
     /// <summary>
-    /// Lógica de interacción para AdministrarCoordinadores.xaml
+    /// Lógica de interacción para AdministrarProfesores.xaml
     /// </summary>
-    public partial class AdministrarCoordinadores : Window
+    public partial class AdministrarProfesores : Window
     {
-        public AdministrarCoordinadores()
+        public AdministrarProfesores()
         {
             InitializeComponent();
         }

@@ -23,8 +23,8 @@
         <PasswordBox x:Name="alumnoPassword" HorizontalAlignment="Left" Margin="221,368,0,0" VerticalAlignment="Top" Height="24" Width="246"/>
         <PasswordBox x:Name="alumnoPasswordRepite" HorizontalAlignment="Left" Margin="221,426,0,0" VerticalAlignment="Top" Height="21" Width="249"/>
         <TextBox x:Name="textboxCubiculo" HorizontalAlignment="Left" Height="23" Margin="221,311,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="249"/>
-        <Button x:Name="buttonRegistrar" Content="Registrar" HorizontalAlignment="Left" Margin="293,516,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="buttonRegresar" Content="Regresar" HorizontalAlignment="Left" Margin="576,13,0,0" VerticalAlignment="Top" Width="51" Height="42"/>
+        <Button x:Name="buttonRegistrar" Content="Registrar" HorizontalAlignment="Left" Margin="127,517,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="buttonRegresar" Content="Regresar" HorizontalAlignment="Left" Margin="472,517,0,0" VerticalAlignment="Top" Width="74" Height="19"/>
 
     </Grid>
 </Window>

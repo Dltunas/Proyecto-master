@@ -112,6 +112,9 @@
     <Compile Include="Vistas\Administrador\AdministrarCoordinadores.xaml.cs">
       <DependentUpon>AdministrarCoordinadores.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Vistas\Administrador\AdministrarProfesores.xaml.cs">
+      <DependentUpon>AdministrarProfesores.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Vistas\Administrador\MainAdministrador.xaml.cs">
       <DependentUpon>MainAdministrador.xaml</DependentUpon>
     </Compile>
@@ -124,7 +127,7 @@
     <Compile Include="Vistas\RegistrarPracticante.xaml.cs">
       <DependentUpon>RegistrarPracticante.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Vistas\RegistrarProfesor.xaml.cs">
+    <Compile Include="Vistas\Administrador\RegistrarProfesor.xaml.cs">
       <DependentUpon>RegistrarProfesor.xaml</DependentUpon>
     </Compile>
     <Compile Include="Vistas\RegistrarProyecto.xaml.cs">
@@ -146,6 +149,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Vistas\Administrador\AdministrarProfesores.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Vistas\Administrador\MainAdministrador.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -162,7 +169,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Vistas\RegistrarProfesor.xaml">
+    <Page Include="Vistas\Administrador\RegistrarProfesor.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
